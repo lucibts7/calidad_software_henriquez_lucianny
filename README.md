@@ -1,4 +1,5 @@
 # Calidad de Software
+# Autor: Lucianny Henriquez
 
 Este repositorio tiene como objetivo recopilar conceptos básicos de calidad de software y servir como guía de referencia para la materia. La idea principal es comprender que la calidad no solo se mide por si una aplicación funciona, sino por su confiabilidad, mantenibilidad, seguridad y facilidad de uso.
 
